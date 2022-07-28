@@ -1,6 +1,6 @@
 {
   "name": "17",
-  "homepage": "http://rastifar.github.io/formik",
+  "homepage": "http://rastifar.github.io/singupLoginformik",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
