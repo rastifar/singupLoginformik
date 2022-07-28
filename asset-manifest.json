@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/singupLoginformik/static/css/main.fa515eeb.css",
+    "main.js": "/singupLoginformik/static/js/main.b0a87c4f.js",
+    "static/media/yekan.woff": "/singupLoginformik/static/media/yekan.1e623c77bb4d266b943b.woff",
+    "index.html": "/singupLoginformik/index.html",
+    "main.fa515eeb.css.map": "/singupLoginformik/static/css/main.fa515eeb.css.map",
+    "main.b0a87c4f.js.map": "/singupLoginformik/static/js/main.b0a87c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa515eeb.css",
+    "static/js/main.b0a87c4f.js"
+  ]
+}
